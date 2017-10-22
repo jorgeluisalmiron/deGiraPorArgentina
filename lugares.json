@@ -1,0 +1,96 @@
+{
+	"zonas":[{
+	"zona": "Patagonia",
+	"lugares":[
+	{
+		"lugar":"Bariloche",
+		"rutas":"40",
+		"aeropuerto":"SC Bariloche",
+		"descripcion":"La ciudad es espectacular.\nTiene zaraza y demás\n",
+		"imagenes":[
+			{
+				"descripcion":"Punto panorámico",
+				"url":"http://3.bp.blogspot.com/-377TMEGp0Ys/Ua0NTX5d-FI/AAAAAAAABII/o6su0dCMA-g/s1600/DSC02307.JPG"
+			},
+			
+			{
+				"descripcion":"Cerro Campanario",
+				"url":"http://1.bp.blogspot.com/-VIE6lxAkk-8/Ua0UBb9_cHI/AAAAAAAABJE/tVneFe2Zqis/s1600/DSC01823.JPG"
+			},
+			{
+					"descripcion":"Cerro Catedral",
+				"url":"http://2.bp.blogspot.com/-GSwuAcpZgl4/Ua0Vm48fCBI/AAAAAAAABJQ/u-1kJtsQImY/s1600/cerro+catedral.jpg"
+			}
+			]
+	},
+	{
+		"lugar":"Test2",
+		"rutas":"40",
+		"aeropuerto":"SC Bariloche",
+		"descripcion":"La ciudad es espectacular.\nTiene zaraza y demás\n",
+		"imagenes":[
+			{
+				"descripcion":"Punto panorámico",
+				"url":"http://3.bp.blogspot.com/-377TMEGp0Ys/Ua0NTX5d-FI/AAAAAAAABII/o6su0dCMA-g/s1600/DSC02307.JPG"
+			},
+			
+			{
+				"descripcion":"Cerro Campanario",
+				"url":"http://1.bp.blogspot.com/-VIE6lxAkk-8/Ua0UBb9_cHI/AAAAAAAABJE/tVneFe2Zqis/s1600/DSC01823.JPG"
+			},
+			{
+					"descripcion":"Cerro Catedral",
+				"url":"http://2.bp.blogspot.com/-GSwuAcpZgl4/Ua0Vm48fCBI/AAAAAAAABJQ/u-1kJtsQImY/s1600/cerro+catedral.jpg"
+			}
+			]
+	}
+	]},
+	{"zona": "Costa",
+	"lugares":[
+	{
+		"lugar":"Test3",
+		"rutas":"40",
+		"aeropuerto":"SC Bariloche",
+		"descripcion":"La ciudad es espectacular.\nTiene zaraza y demás\n",
+		"imagenes":[
+			{
+				"descripcion":"Punto panorámico",
+				"url":"http://3.bp.blogspot.com/-377TMEGp0Ys/Ua0NTX5d-FI/AAAAAAAABII/o6su0dCMA-g/s1600/DSC02307.JPG"
+			},
+			
+			{
+				"descripcion":"Cerro Campanario",
+				"url":"http://1.bp.blogspot.com/-VIE6lxAkk-8/Ua0UBb9_cHI/AAAAAAAABJE/tVneFe2Zqis/s1600/DSC01823.JPG"
+			},
+			{
+					"descripcion":"Cerro Catedral",
+				"url":"http://2.bp.blogspot.com/-GSwuAcpZgl4/Ua0Vm48fCBI/AAAAAAAABJQ/u-1kJtsQImY/s1600/cerro+catedral.jpg"
+			}
+			]
+	},
+	{
+		"lugar":"Test4",
+		"rutas":"40",
+		"aeropuerto":"SC Bariloche",
+		"descripcion":"La ciudad es espectacular.\nTiene zaraza y demás\n",
+		"imagenes":[
+			{
+				"descripcion":"Punto panorámico",
+				"url":"http://3.bp.blogspot.com/-377TMEGp0Ys/Ua0NTX5d-FI/AAAAAAAABII/o6su0dCMA-g/s1600/DSC02307.JPG"
+			},
+			
+			{
+				"descripcion":"Cerro Campanario",
+				"url":"http://1.bp.blogspot.com/-VIE6lxAkk-8/Ua0UBb9_cHI/AAAAAAAABJE/tVneFe2Zqis/s1600/DSC01823.JPG"
+			},
+			{
+					"descripcion":"Cerro Catedral",
+				"url":"http://2.bp.blogspot.com/-GSwuAcpZgl4/Ua0Vm48fCBI/AAAAAAAABJQ/u-1kJtsQImY/s1600/cerro+catedral.jpg"
+			}
+			]
+	}
+	]
+	}
+	
+	]
+}
